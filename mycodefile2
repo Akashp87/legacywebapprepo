@@ -1,2 +1,2 @@
-driver.findelement(by.xpath()).clcik;
+Webelemnt btn=driver.findelement(By.xpath(//a[@text()='button']).clcik;
 driver.get("www.cubegeekspro.com");
