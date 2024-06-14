@@ -1,1 +1,2 @@
 driver.findelement(by.xpath()).clcik;
+driver.get("www.cubegeekspro.com");
